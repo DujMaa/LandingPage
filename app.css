@@ -95,3 +95,24 @@ ul {
   color: #1f2937;
   margin-bottom: 50px;
 }
+
+.quote {
+  background-color: #e5e7eb;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 100;
+  padding: 100px 300px;
+}
+
+.quote p {
+  padding: 0;
+  margin: 0;
+}
+
+.quote .author {
+  font-size: 32px;
+  text-align: end;
+  font-weight: 800;
+  padding: 0;
+  margin: 0;
+}
